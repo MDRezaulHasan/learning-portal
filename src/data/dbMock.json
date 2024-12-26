@@ -1,0 +1,204 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Software Engineering",
+      "slug": "introduction-to-software-engineering",
+      "description": "Learn the fundamentals of software engineering, including principles, methodologies, and best practices.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Object-Oriented Programming",
+      "slug": "advanced-object-oriented-programming",
+      "description": "Deep dive into object-oriented programming concepts and design patterns.",
+      "price": 59.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Master front-end and back-end technologies to build dynamic web applications.",
+      "price": 79.99,
+      "instructor": "Alex Brown",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 4,
+      "title": "DevOps Fundamentals",
+      "slug": "devops-fundamentals",
+      "description": "Understand the DevOps culture and learn about CI/CD, containerization, and automation tools.",
+      "price": 69.99,
+      "instructor": "Emily White",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Data Structures and Algorithms",
+      "slug": "data-structures-and-algorithms",
+      "description": "Learn the building blocks of computer science, including efficient algorithms and data organization.",
+      "price": 59.99,
+      "instructor": "Chris Green",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Agile Project Management",
+      "slug": "agile-project-management",
+      "description": "Master the Agile methodology for effective project management and collaboration.",
+      "price": 49.99,
+      "instructor": "Laura Black",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Software Testing and Quality Assurance",
+      "slug": "software-testing-and-quality-assurance",
+      "description": "Learn techniques and tools to ensure software reliability and performance.",
+      "price": 54.99,
+      "instructor": "Michael Gray",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Introduction to Machine Learning",
+      "slug": "introduction-to-machine-learning",
+      "description": "Explore the basics of machine learning and its applications in software engineering.",
+      "price": 89.99,
+      "instructor": "Anna Blue",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cloud Computing with AWS",
+      "slug": "cloud-computing-with-aws",
+      "description": "Learn how to use Amazon Web Services for scalable cloud-based solutions.",
+      "price": 79.99,
+      "instructor": "Robert King",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Cybersecurity Essentials",
+      "slug": "cybersecurity-essentials",
+      "description": "Protect software and systems from vulnerabilities and cyber threats.",
+      "price": 69.99,
+      "instructor": "Sophia Miller",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Mobile App Development with Flutter",
+      "slug": "mobile-app-development-with-flutter",
+      "description": "Build cross-platform mobile apps using Flutter and Dart programming language.",
+      "price": 74.99,
+      "instructor": "Kevin Lee",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Introduction to Artificial Intelligence",
+      "slug": "introduction-to-artificial-intelligence",
+      "description": "Get started with AI concepts and understand how to implement AI in software solutions.",
+      "price": 84.99,
+      "instructor": "Maria Thompson",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Python for Data Science",
+      "slug": "python-for-data-science",
+      "description": "Master Python programming for data analysis and visualization.",
+      "price": 64.99,
+      "instructor": "Tom Johnson",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Software Architecture Design",
+      "slug": "software-architecture-design",
+      "description": "Learn how to design robust and scalable software architecture.",
+      "price": 69.99,
+      "instructor": "Rachel Davis",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Advanced Java Programming",
+      "slug": "advanced-java-programming",
+      "description": "Enhance your Java skills and learn advanced concepts for enterprise solutions.",
+      "price": 59.99,
+      "instructor": "Brian Wilson",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Blockchain Technology Basics",
+      "slug": "blockchain-technology-basics",
+      "description": "Understand the fundamentals of blockchain technology and its applications.",
+      "price": 74.99,
+      "instructor": "Olivia Harris",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Game Development with Unity",
+      "slug": "game-development-with-unity",
+      "description": "Create engaging video games using Unity game engine.",
+      "price": 79.99,
+      "instructor": "Nathan Brown",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Introduction to Big Data",
+      "slug": "introduction-to-big-data",
+      "description": "Explore the basics of big data and learn how to handle large datasets.",
+      "price": 89.99,
+      "instructor": "Diana Roberts",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 19,
+      "title": "API Development and Integration",
+      "slug": "api-development-and-integration",
+      "description": "Learn how to create and integrate APIs for modern software solutions.",
+      "price": 64.99,
+      "instructor": "Steven Evans",
+      "isFeatured": true,
+      "image": "/images/computer-science.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Advanced SQL for Data Analysis",
+      "slug": "advanced-sql-for-data-analysis",
+      "description": "Master advanced SQL techniques for efficient data analysis and management.",
+      "price": 59.99,
+      "instructor": "Charlotte Taylor",
+      "isFeatured": false,
+      "image": "/images/computer-science.jpg"
+    }
+  ]
+}
